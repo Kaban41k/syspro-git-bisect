@@ -1,19 +1,24 @@
 """
-Master Mewing
-I must say, you're here sooner than expected
+You're a Sigma male, aren't you?
 
-In the name of the galactic Rizzlers of the Republic, you're under arrest Beta
+Are you capping, lil bro?
 
-Are you rizzing me, Master Jedi?
+I saw your jawline
+Only Sigmas can have such a mewing streak
 
-The Sigmas will decide you're fate
+Perhaps I mogged a Sigma and fanum taxed him
 
-I am the Sigma.
+I don't think so
+No one can mog a Sigma
 
-Not yet.
+You're a new gen, Anakin
+You're cooked
 
-I'm mewing then
+
+I was once a looksmaxxer the same as your father
+He had the best jawline in the galaxy
+And he edged a lot
 """
 
-print("Still a beta...")
-exit(0)
+print("You're so sigma")
+exit(1)
