@@ -1,12 +1,11 @@
 """
-I have more rizz than the Chancellor
-I can mog him
+I'm gonna mog this motherf*cker!
 
 
-I don't want to hear any more about Obi-Wan
-The Jedi mogged me
-Don't you mog me
+You fanum taxxed me!
+
+No one can beat my mewing streak
 """
 
-print("You have more rizz than the Chancellor... But still a beta")
+print("Still a beta...")
 exit(0)
